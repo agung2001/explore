@@ -14,6 +14,9 @@ items:
  - refactory-id/bootstrap-markdown
  - zuramai/mazer
  - mdmsoft/yii2-admin
+ - agung2001/wp-id.github.io
+ - artistudioxyz/aspri
+ - artistudioxyz/dot-framework
 display_name: Made in Indonesia
 created_by: mabdh
 image: made-in-indonesia.png
